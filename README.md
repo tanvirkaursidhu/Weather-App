@@ -7,7 +7,7 @@ Are you curious to know whether it will rain or you will enjoy the sunshine all 
 This weather app will tell you the exact forecast. 
 The only thing which you need to do is enter your location :)
 
-I have used following tech stacks in this :- React.js, OpenWeatherMap API.
+I have used following tech stacks in this :- React.js, OpenWeather API.
  
 
 ## Screenshot of the App
